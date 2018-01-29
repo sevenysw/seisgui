@@ -1,0 +1,1 @@
+g++ `pkg-config --cflags gtk+-2.0` -o mainwindow mainwindow.c `pkg-config --libs gtk+-2.0`

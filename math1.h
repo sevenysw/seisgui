@@ -1,0 +1,3 @@
+void su();
+
+void timesu();
